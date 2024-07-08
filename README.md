@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello friends 👋, I am fenil danidhariya
+
+Your budding front-end developer
+
 
 <!--
 **fenildani7/fenildani7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
